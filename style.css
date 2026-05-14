@@ -1,0 +1,32 @@
+body {
+  background: lavender;
+}
+p {
+  color: black;
+  font-family: monospace;
+}
+h1 {
+  font-weight: bold;
+  font-family: fantasy;
+}
+h3 {
+  font-family: fantasy;
+  color: blueviolet;  
+}
+ul {
+  font-family: monospace;
+}
+.niffler-img {
+  float: left;
+  width: 400px
+}
+.description {
+  float: left;
+  width: 500px; 
+}
+.citation {
+  text-align: right;
+}
+.echidna {
+  width: 800px
+}
